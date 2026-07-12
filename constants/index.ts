@@ -264,6 +264,13 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
+    title: "Zenith Cinema",
+    description:
+      "A premium film launch and premiere platform where cinema meets commerce. Zenith Cinema discovers, curates, and premieres films with a full seat booking experience, live seat maps per screening, and secure checkout that issues a receipt in the user's portal. It features Sanctum token auth and M-Pesa Daraja and Pesapal payments behind a clean gateway interface, with a Next.js frontend served by a Laravel REST API. Built with Next.js 16, React 19, TypeScript, Tailwind CSS, Laravel 12, and Supabase Postgres.",
+    image: "/projects/zenith.png",
+    link: "https://zenith-nine-chi.vercel.app/",
+  },
+  {
     title: "TenderIQ",
     description:
       "AI powered government procurement intelligence platform for Kenyan SMEs. It aggregates and analyzes tenders from Kenya's public procurement portals, giving small businesses a competitive edge with smart alerts and insights. Built with React, Fastify, Supabase, BullMQ, and Playwright.",
